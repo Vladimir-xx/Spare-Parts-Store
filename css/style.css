@@ -79,7 +79,7 @@ body{
 }
 .header-top-phone::before{
     content: "";
-    background-image: url(pictures/1.Header-top/Header-top-phone-call.svg);
+    background-image: url(/pictures/1.Header-top/Header-top-phone-call.svg)
     background-size: cover;
     width: 25px;
     height: 25px;
